@@ -1,5 +1,4 @@
-[Ds_1.PNG](https://github.com/Finituko/PRODIGY_DS_01/blob/062124c54d7f51b9cf29e41347a14aea6b1e67d0/Ds_1.PNG)
-
+![Ds_1.PNG](https://github.com/Finituko/PRODIGY_DS_01/blob/062124c54d7f51b9cf29e41347a14aea6b1e67d0/Ds_1.PNG)
 ## Overview  
 During my internship at Prodigy Infotech, I worked on exciting!
 g projects that enhanced my technical skills and provided hands-on experience in solving real-world problems. My role involved collaborating with a talented team to deliver innovative solutions across multiple domains.  
