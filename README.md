@@ -1,7 +1,8 @@
-
+[Ds_1](https://github.com/user-attachments/assets/21bb4473-6615-4ff2-b238-f36a700de693)
 
 ## Overview  
-During my internship at Prodigy Infotech, I worked on exciting projects that enhanced my technical skills and provided hands-on experience in solving real-world problems. My role involved collaborating with a talented team to deliver innovative solutions across multiple domains.  
+During my internship at Prodigy Infotech, I worked on exciting!
+g projects that enhanced my technical skills and provided hands-on experience in solving real-world problems. My role involved collaborating with a talented team to deliver innovative solutions across multiple domains.  
 
 ## Key Responsibilities  
 Here’s an outline of the tasks and projects I worked on during my internship:  
