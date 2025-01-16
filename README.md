@@ -1,4 +1,4 @@
-[Ds_1](https://github.com/user-attachments/assets/21bb4473-6615-4ff2-b238-f36a700de693)
+Ds_1.PNG
 
 ## Overview  
 During my internship at Prodigy Infotech, I worked on exciting!
