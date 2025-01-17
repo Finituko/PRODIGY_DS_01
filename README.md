@@ -5,13 +5,13 @@ g projects that enhanced my technical skills and provided hands-on experience in
 ## Key Responsibilities  
 Here’s an outline of the tasks and projects I worked on during my internship:  
 
-Objective:-
+## Objective:-
 Created a histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
 
-Dataset:-
+## Dataset:-
 World Bank Population Data: https://data.worldbank.org/indicator/SP.POP.TOTL
 
-Description:-
+## Description:-
 Loaded the population data from the World Bank.
 Processed the data to extract the relevant categorical or continuous variable.
 Created a bar chart or histogram, line chart to visualize the distribution.
